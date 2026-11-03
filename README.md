@@ -41,7 +41,7 @@ Métrique : *(à compléter)* · Référence : *(à compléter)*
 3. Interface : *(page)*
 
 ## Équipe
-| Noms | Matricule |
-|---|---|
-|Kate Eliora Yoboue |2537234|
-|Mohamed Kassi Lahou|2431989|
+| Nom | Matricule | Courriel personnel |
+|---|---|---|
+|Kate Eliora Yoboue |2537234| keyorawork@gmail.com |
+|Mohamed Kassi Lahou|2431989| kassilahloumohamed@gmail.com |
