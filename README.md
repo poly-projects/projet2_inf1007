@@ -7,6 +7,12 @@
 - Licence : 
 - Fichier : `donnees/` *(25 Mo maximum, sinon lien de téléchargement ici)*
 
+## Organisation du travail avec Git
+- `main` contient toujours une version qui passe les tests (CI verte).
+- Chaque tâche se fait sur une **branche courte** créée à partir de `main` à jour (`donnees`, `modele`, `interface`, `docs`…).
+- On fusionne dans `main`, une fois la CI verte, et on supprime la branche.
+- Messages de commit courts et clairs, sous la forme « Ajout de… », « Correction de… », « Modification de… ».
+
 ## Installation et lancement
 ```
 pip install -r requirements.txt
