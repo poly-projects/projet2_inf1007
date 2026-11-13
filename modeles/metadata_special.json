@@ -1,0 +1,29 @@
+{
+  "nom_projet": "Êtes-vous spécial ?",
+  "algorithme": "RandomForestClassifier",
+  "score_test": 0.885,
+  "score_reference": 0.4,
+  "classes": [
+    "Profil Spontané & Intuitif",
+    "Profil Structuré & Collectif",
+    "Profil Équilibré & Pragmatique"
+  ],
+  "colonnes_numeriques": [
+    "score_methode",
+    "score_relations",
+    "score_choix",
+    "score_quotidien",
+    "score_total_rarete",
+    "choix_originaux"
+  ],
+  "colonnes_categorielles": [
+    "q_organisation",
+    "q_conflit",
+    "q_decision",
+    "q_concentration",
+    "q_weekend",
+    "q_reveil",
+    "q_franchise",
+    "q_imprevu"
+  ]
+}
